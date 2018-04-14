@@ -1,0 +1,17 @@
+D:\PROJETOS\UFF\AD1_Construcao_Pagina_Web\Projeto\bin\Debug\ReverseMap\resources.pri
+D:\PROJETOS\UFF\AD1_Construcao_Pagina_Web\Projeto\bin\Debug\AppxManifest.xml
+D:\PROJETOS\UFF\AD1_Construcao_Pagina_Web\Projeto\bin\Debug\Projeto.build.appxrecipe
+D:\PROJETOS\UFF\AD1_Construcao_Pagina_Web\Projeto\bld\Debug\Projeto.jsproj.CoreCompileInputs.cache
+D:\PROJETOS\UFF\AD1_Construcao_Pagina_Web\Projeto\bld\Debug\ResourceHandlingTask.state
+D:\PROJETOS\UFF\AD1_Construcao_Pagina_Web\Projeto\bld\Debug\priconfig.xml
+D:\PROJETOS\UFF\AD1_Construcao_Pagina_Web\Projeto\bld\Debug\priconfig.xml.intermediate
+D:\PROJETOS\UFF\AD1_Construcao_Pagina_Web\Projeto\bld\Debug\layout.resfiles
+D:\PROJETOS\UFF\AD1_Construcao_Pagina_Web\Projeto\bld\Debug\layout.resfiles.intermediate
+D:\PROJETOS\UFF\AD1_Construcao_Pagina_Web\Projeto\bld\Debug\resources.resfiles
+D:\PROJETOS\UFF\AD1_Construcao_Pagina_Web\Projeto\bld\Debug\resources.resfiles.intermediate
+D:\PROJETOS\UFF\AD1_Construcao_Pagina_Web\Projeto\bld\Debug\pri.resfiles
+D:\PROJETOS\UFF\AD1_Construcao_Pagina_Web\Projeto\bld\Debug\pri.resfiles.intermediate
+D:\PROJETOS\UFF\AD1_Construcao_Pagina_Web\Projeto\bld\Debug\qualifiers.txt
+D:\PROJETOS\UFF\AD1_Construcao_Pagina_Web\Projeto\bld\Debug\qualifiers.txt.intermediate
+D:\PROJETOS\UFF\AD1_Construcao_Pagina_Web\Projeto\bld\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\PROJETOS\UFF\AD1_Construcao_Pagina_Web\Projeto\bld\Debug\ProjectArchitectures.txt
